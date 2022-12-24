@@ -12,3 +12,5 @@ dependencies:
   - sqlite
   - bokeh
   - panel
+  - altair
+  - ipympl
