@@ -4,3 +4,11 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - ipycanvas
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - scipy
+  - sqlite
+  - bokeh
+  - panel
