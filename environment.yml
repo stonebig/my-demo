@@ -26,3 +26,4 @@ dependencies:
   - pyarrow
   - black
   - duckdb  
+  - pyviz_comms
