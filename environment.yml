@@ -15,4 +15,4 @@ dependencies:
   - altair
   - ipympl
   - vega_datasets
-  
+  - pyviz_comms
