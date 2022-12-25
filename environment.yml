@@ -14,3 +14,5 @@ dependencies:
   - panel
   - altair
   - ipympl
+  - vega_datasets
+  
