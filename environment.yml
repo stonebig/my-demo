@@ -26,3 +26,5 @@ dependencies:
   - black
   - pyviz_comms
   - openpyxl
+  - tzdata
+  - httpx
