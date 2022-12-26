@@ -23,7 +23,6 @@ dependencies:
   - vega_datasets
   - plotly
   - bqplot
-  - pyarrow
   - black
-  - duckdb  
   - pyviz_comms
+  - python-duckdb
