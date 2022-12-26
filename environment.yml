@@ -25,4 +25,6 @@ dependencies:
   - bqplot
   - black
   - pyviz_comms
-  - python-duckdb
+  - sspyrs
+  - requests_ntlm
+  - openpyxl
