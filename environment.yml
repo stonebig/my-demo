@@ -23,10 +23,10 @@ dependencies:
   - vega_datasets
   - plotly
   - bqplot
-  - pyarrow
   - black
-  - duckdb  
   - pyviz_comms
   - nbformat
   - pyodide-http
-  
+  - openpyxl
+  - tzdata
+  - httpx
