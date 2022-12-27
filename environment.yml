@@ -27,3 +27,6 @@ dependencies:
   - black
   - duckdb  
   - pyviz_comms
+  - nbformat
+  - pyodide-http
+  
