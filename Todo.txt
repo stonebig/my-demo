@@ -1,0 +1,3 @@
+2022-12-27
+include when possible pyodide-http so that %load works
+https://github.com/jupyterlite/jupyterlite/issues/919#issuecomment-1363322194

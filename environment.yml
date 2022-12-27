@@ -26,7 +26,6 @@ dependencies:
   - black
   - pyviz_comms
   - nbformat
-  - pyodide-http
   - openpyxl
   - tzdata
   - httpx
